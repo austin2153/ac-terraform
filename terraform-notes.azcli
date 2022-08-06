@@ -1,0 +1,19 @@
+# Get Azure Regions
+az account list-locations -o table
+
+# Azure CLI Login
+az login
+
+# List Subscriptions
+az account list
+
+# Set Specific Subscription (if we have multiple subscriptions)
+az account set --subscription="SUBSCRIPTION_ID"
+
+# Delete Terraform files Linux
+rm -rf .terraform*
+rm -rf terraform.tfstate*
+
+# Delete Terraform files Windows PS
+Remove-Item .terraform*
+Remove-Item terraform.tfstate*

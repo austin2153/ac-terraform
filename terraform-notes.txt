@@ -1,0 +1,9 @@
+# Udemy workspace
+student_7pmnzcbkl6b85u68_00857662@vocareumvocareum.onmicrosoft.com
+pJi?5BS?Wr7sFX
+Regroup_8jmppWEITWYt
+
+
+Ctrl+Shift+V - View markdown in VSC
+Ctrl+' - Run in terminal
+
